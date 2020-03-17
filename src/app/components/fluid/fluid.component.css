@@ -1,0 +1,28 @@
+#top {
+	font-family: 'CustomFont';
+	font-size: 38px;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.img-responsive {
+	min-width: 1352px !important;
+	min-height: 500px !important;
+}
+img.img-thumbnail {
+	width: 50px;
+	height: 50px;
+}
+img.rounded-circle {
+	width: 250px;
+	height: 250px;
+}

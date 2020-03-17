@@ -1,0 +1,33 @@
+.bg-light {
+    background-color: pink !important;
+}
+.btn-outline-danger {
+    color: #ffffff;
+    border-color: #E42872;
+    background-color: #E42872;
+}
+.btn-outline-danger:hover {
+    color: #ffffff;
+    border-color: #E42872;
+    background-color: rgb(218, 108, 152);
+}
+
+.btn-outline-nav-link {
+    color: #E42872;
+    border-color: #E42872;
+    background-color: #ffffff;
+}
+.btn-outline-nav-link:hover {
+    color: #ffffff;
+    border-color: #E42872;
+    background-color: #E42872;
+}
+.nav-link {
+    color: #ffffff !important;
+}
+.nav-link:hover {
+    color: #E42872 !important;
+}
+.nav-item>a:hover, .logo {
+    color: #E42872;
+}

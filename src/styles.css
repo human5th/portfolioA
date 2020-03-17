@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+.nav-font-link, .logo {
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+.logo:hover {
+    color: brown !important;
+}
+.bg-border-custom {
+    background-color: #E42872;
+    border-color: #E42872;
+    padding: 0rem 3rem 0rem 3rem;
+    color: #ffffff;
+}
+
+.dropdown_custom_list {
+    color: #E42872;
+    border-color: #E42872;
+    background-color: #ffffff;
+}
+
+.dropdown_custom_list:hover {
+    color: #E42872;
+    border-color: #E42872;
+    background-color: #ffffff;
+}
+.h-650 {
+    height: 650px !important;
+}
+h1 {
+    color: #E42872;
+}
